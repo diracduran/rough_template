@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.infinite-scroll-component__outerdiv {
+    margin-bottom: 25px;
+}
+
+.infinite-scroll-component__outerdiv .infinite-scroll-component > div > a {
+    display: block;
+    margin-bottom: 5px;
+}
+
+main {
+    width: 90%;
+    margin: 0 auto;
+}
